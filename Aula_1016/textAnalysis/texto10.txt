@@ -1,0 +1,22 @@
+A história da coroa de ouro não aparece nas obras conhecidas de Arquimedes. 
+Além disso, a praticidade do método descrito tem sido posta em dúvida, 
+devido à extrema acurácia com que se teria que medir o deslocamento de água. 
+Arquimedes pode ter buscado uma solução que aplicasse o princípio conhecido 
+em hidrostática como princípio de Arquimedes, que ele descreveu em seu tratado 
+Sobre os Corpos Flutuantes. Esse princípio afirma que um corpo imerso em um 
+fluido sofre uma força de empuxo igual ao peso do fluido que ele desloca. 
+Usando esse princípio, teria sido possível comparar a densidade da coroa de 
+ouro à de ouro maciço equilibrando-se a coroa em uma balança de braços iguais 
+com uma amostra de ouro, e então imergindo-se o aparato na água. Se a coroa 
+fosse menos densa que ouro, ela deslocaria mais água, devido ao seu maior 
+volume, e assim experimentaria uma força de empuxo maior do que a amostra de
+ouro. Essa diferença de empuxo causaria a balança a inclinar-se de acordo. 
+Galileu considerou "provável que esse método é o mesmo que Arquimedes 
+seguiu, uma vez que, além de ser bastante acurado, é baseado em demonstrações 
+encontradas pelo próprio Arquimedes."[26] Num texto do século XII 
+intitulado Mappae clavicula, há instruções detalhadas sobre como realizar as
+pesagens dentro da água com o fim de calcular a porcentagem de prata 
+utilizada, e assim resolver o problema.[27][28] Além disso, o poema latino 
+Carmen de ponderibus et mensuris do século IV ou V d.C. descreve a 
+utilização de uma balança hidrostática para solucionar o problema da 
+coroa, e atribui esse método a Arquimedes.

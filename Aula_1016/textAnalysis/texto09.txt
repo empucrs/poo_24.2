@@ -1,0 +1,20 @@
+A curiosidade mais conhecida sobre Arquimedes conta sobre como ele inventou um 
+método para determinar o volume de um objeto de forma irregular. 
+De acordo com Vitrúvio, uma coroa votiva para um templo tinha sido feita para 
+o Rei Hierão II, que tinha fornecido ouro puro para ser usado, e Arquimedes 
+foi solicitado a determinar se alguma prata tinha sido usada na confecção 
+da coroa pelo possivelmente desonesto ferreiro.[21] Arquimedes 
+tinha que resolver o problema sem danificar a coroa, de forma que ele não 
+poderia derretê-la em um corpo de formato regular, a fim de encontrar seu 
+volume para calcular a sua densidade. Enquanto tomava um banho, ele percebeu 
+que o nível da água na banheira subia enquanto ele entrava, e percebeu 
+que esse efeito poderia ser usado para determinar o volume da coroa. 
+Para efeitos práticos, a água é incompressível,[22] assim a coroa 
+submersa deslocaria uma quantidade de água igual ao seu próprio volume. 
+Dividindo a massa da coroa pelo volume de água deslocada, a densidade da 
+coroa podia ser obtida. Essa densidade seria menor do que a do ouro se 
+metais mais baratos e menos densos tivessem sido adicionados. Arquimedes 
+teria ficado tão animado com sua descoberta que teria esquecido de se 
+vestir e saído gritando pelas ruas "Eureka!" . O teste foi
+ realizado com sucesso, provando que prata realmente tinha sido misturada.
+ 

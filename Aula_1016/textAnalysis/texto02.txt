@@ -1,0 +1,26 @@
+Algumas lendas dizem que Arquimedes descobriu, enquanto tomava banho, que um corpo 
+fica mais leve quando esta imerso na água devido a uma força verticalmente para 
+cima que o líquido exerce sobre este corpo. Essa força que o líquido exerce 
+no corpo é chamada de empuxo.
+O princípio de Arquimedes diz que:
+
+(física...) Todo corpo imerso em um fluido sofre ação de uma força (empuxo) verticalmente para
+cima, cuja intensidade é igual ao peso do fluido deslocado pelo corpo.
+
+Sendo Vf o volume do fluido deslocado, então a massa do fluido deslocado é:
+
+Mf = df. Vf
+
+Sabendo que o módulo do empuxo é igual ao módulo do peso:
+
+E = P = m . g
+
+Assim temos que o empuxo é:
+
+E = df. Vf . g
+
+O fluido deslocado é o volume do fluido que caberia dentro da parte imersa no 
+fluido, estando ele totalmente ou parcialmente imerso, como mostra figura abaixo:
+
+Arquimedes formulou o seu princípio para a água, mas ele funciona para qualquer 
+fluido, até mesmo para o ar.

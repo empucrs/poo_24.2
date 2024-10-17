@@ -1,0 +1,16 @@
+Arquimedes é frequentemente considerado o maior matemático da antiguidade, e um dos 
+maiores de todos os tempos (ao lado de Newton, Euler e Gauss).
+Ele usou o método da exaustão para calcular a área sob o arco de uma parábola 
+utilizando a soma de uma série infinita, e também encontrou uma aproximação 
+bastante acurada do número π.[8] Também descobriu a espiral que 
+leva seu nome, fórmulas para os volumes de sólidos de revolução e um engenhoso 
+sistema para expressar números muito grandes.
+
+Durante o Cerco a Siracusa, Arquimedes foi morto por um soldado romano, 
+mesmo após os soldados terem recebido ordens para que não o ferissem, devido 
+à admiração que os líderes romanos tinham por ele. Anos depois, 
+Cícero descreveu sua visita ao túmulo de Arquimedes, que era encimado 
+por uma esfera inscrita em um cilindro. Arquimedes tinha descoberto e 
+provado que a esfera tem exatamente dois terços do volume e da área 
+da superfície do cilindro a ela circunscrito (incluindo as bases do último), 
+e considerou essa como a maior de suas realizações matemáticas.
